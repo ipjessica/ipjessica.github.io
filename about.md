@@ -16,6 +16,7 @@ permalink: /about/
     <li>Computational Theory of Mind (i.e., the role of philosophy in computer science)</li>
     <li>History</li>
     <li>Photography - film; fashion editorials; black & white</li>
+    <li>Applications of Mathematics in CS</li>
 </ul>
 
 <p></p>
