@@ -96,3 +96,14 @@ pre.highlight {
     display: inline-block !important;
   }
 }
+
+figure {
+  display: inline-block;
+  text-align: center;
+  margin: auto;
+}
+
+figure figcaption {
+  text-align: inherit;
+  padding: 2px;
+}
