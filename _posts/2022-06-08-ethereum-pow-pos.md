@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ethereum's Move from PoW to PoS
+title: Ethereum's Transition from PoW to PoS
 ---
 
 As part of Ethereum's transition from the Proof-of-Work to the Proof-of-Stake consensus mechanism, it currently has two chains running in parallel: a PoW chain, the chain most users are currently interacting with and where smart contracts are deployed; and a PoS chain that has been in Ethereum's plan since its inception and has been deployed since December 2020. Due to the vast amount of activity and applications and assets that run on the network, it is a delicate and deliberate process in attempting to merge a beacon (PoS) chain (seamlessly) with a live (PoW) chain, one that will continue to transact up until the point where the merge occurs. The PoS chain now has tens of billions of dollars securing it, with blocks that contain metadata about the chain and algorithm itself, but no end user transactions. 
