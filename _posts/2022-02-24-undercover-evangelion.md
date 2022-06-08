@@ -23,16 +23,10 @@ This collection is an exhibition of the delicate balance required when bridging 
 </p>
 
 
-Sources:
-
-<a href="https://undercoverism.com/collections/detail.php?id=1000" target="_blank" rel="noopener noreferrer">https://undercoverism.com/collections/detail.php?id=1000</a>
-
-<a href="https://www.sz-mag.com/news/2021/03/jun-takahashi-on-his-f-w-21-tokyo-show/" target="_blank" rel="noopener noreferrer">"Jun Takashi on his F/W 21 Tokyo Show" (StyleZeitgeist)</a>
-
-<a href="https://www.gq.com/story/undercover-neon-genesis-evangelion" target="_blank" rel="noopener noreferrer">"Undercover Brought a Legendary Anime to the Runway" (GQ)</a>
-
-<a href="https://www.vogue.com/fashion-shows/fall-2021-ready-to-wear/undercover" target="_blank" rel="noopener noreferrer">Undercover Fall 2021 Ready-to-Wear Coverage (Vogue)</a>
-
-<a href="https://www.youtube.com/watch?v=4M4N5KlYZK4&t=9s" target="_blank" rel="noopener noreferrer">"REVIEW: UNDERCOVER Neon Genesis Evangelion FW 21/22 "Creep Very" Runway" (YouTube)</a>
-
-<a href="https://www.youtube.com/watch?v=sXNidtxMwOw" target="_blank" rel="noopener noreferrer">"Undercover x EVANGELION: The BEST Anime Fashion Collab Ever!?" (YouTube)</a>
+Sources:<br />
+<a href="https://undercoverism.com/collections/detail.php?id=1000" target="_blank" rel="noopener noreferrer">Undercover 2021 A/W collection "CREEP VERY"</a><br />
+"Jun Takashi on his F/W 21 Tokyo Show" <a href="https://www.sz-mag.com/news/2021/03/jun-takahashi-on-his-f-w-21-tokyo-show/" target="_blank" rel="noopener noreferrer">(StyleZeitgeist)</a><br />
+"Undercover Brought a Legendary Anime to the Runway" <a href="https://www.gq.com/story/undercover-neon-genesis-evangelion" target="_blank" rel="noopener noreferrer">(GQ)</a><br />
+Undercover Fall 2021 Ready-to-Wear Coverage <a href="https://www.vogue.com/fashion-shows/fall-2021-ready-to-wear/undercover" target="_blank" rel="noopener noreferrer">(Vogue)</a><br />
+"REVIEW: UNDERCOVER Neon Genesis Evangelion FW 21/22 'Creep Very' Runway" <a href="https://www.youtube.com/watch?v=4M4N5KlYZK4&t=9s" target="_blank" rel="noopener noreferrer">(YouTube)</a><br />
+"Undercover x EVANGELION: The BEST Anime Fashion Collab Ever!?" <a href="https://www.youtube.com/watch?v=sXNidtxMwOw" target="_blank" rel="noopener noreferrer">(YouTube)</a><br />
