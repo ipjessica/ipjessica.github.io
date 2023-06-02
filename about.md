@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<h4>Interdiscplinary Technologist, Self-Directed Learner, Digital Humanist</h4>
+<h4>Interdiscplinary Technologist, Autodidact, Digital Humanist</h4>
 <img src="/assets/images/9.jpg" alt="headshot" width="200" height="40"/>
 <p>As a technologist who is spurred on by an iterative and curious mindset, I am passionate about using interdisciplinary research and analyses and my experience in full-stack blockchain development to leverage distributed technologies in cross-industry collaborations to push the boundaries of creativity in the areas that interest me:</p>
 
