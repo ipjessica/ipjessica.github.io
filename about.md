@@ -4,18 +4,19 @@ title: About
 permalink: /about/
 ---
 
-<h4>Interdiscplinary Technologist, Autodidact</h4>
+<h4>Interdisciplinary Technologist, Autodidact</h4>
 <img src="/assets/images/9.jpg" alt="headshot" width="200" height="40"/>
-<p>As a technologist who is spurred on by an iterative and curious mindset, I am passionate about using interdisciplinary research and analyses and my experience in full-stack blockchain development to leverage distributed technologies in cross-industry collaborations to push the boundaries of creativity in the areas that interest me:</p>
+<p>As a technologist who has cultivated interests across various disciplines, I am passionate about using my innate curiosity and desire for growth by applying in-depth research, critical thinking, and creativity in a highly intentional and multidisciplinary manner to understand comprehensively the areas that interest me:</p>
 
 <ul>
     <li>Fashion</li>
-    <li>Technology - DLTs; 3-D Design, digital twins/passports</li>
-    <li>Textiles - biofabrication; material solutions (e.g., MycoWorks, Bolt Threads); organic, biodegradable fibres</li>
-    <li>Sustainability - regenerative agriculture, biodiversity</li>
+    <li>Technology - distributed computing systems, neural networks</li>
+    <li>Textiles - biofabrication, material solutions/science, organic fibres</li>
+    <li>Sustainability</li>
     <li>Computational Theory of Mind (i.e., the role of philosophy in computer science)</li>
     <li>History</li>
-    <li>Photography - film; fashion editorials; black & white</li>
+    <li>Photography - film, editorials, black & white</li>
+    <li>Computational Thinking</li>
     <li>Algebraic Computation</li>
 </ul>
 
