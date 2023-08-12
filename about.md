@@ -6,7 +6,7 @@ permalink: /about/
 
 <h4>Interdisciplinary Technologist, Autodidact</h4>
 <img src="/assets/images/9.jpg" alt="headshot" width="200" height="40"/>
-<p>As a technologist who has cultivated interests across various disciplines, I am passionate about using my innate curiosity and desire for growth by applying in-depth research, critical thinking, and creativity in a highly intentional and multidisciplinary manner to understand comprehensively the areas that interest me:</p>
+<p>As a technologist who has cultivated interests across various disciplines, I am passionate about using my innate curiosity and desire for growth by applying in-depth research, critical thinking, and creativity in a highly intentional and diverse manner to understand comprehensively the areas that interest me:</p>
 
 <ul>
     <li>Fashion</li>
