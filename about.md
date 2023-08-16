@@ -10,7 +10,7 @@ permalink: /about/
 
 <ul>
     <li>Fashion</li>
-    <li>Technology - distributed computing systems, neural networks</li>
+    <li>Technology - distributed computing systems, neural networks, high performance computing, quantum computing</li>
     <li>Textiles - biofabrication, material solutions/science, organic fibres</li>
     <li>Sustainability</li>
     <li>Computational Theory of Mind (i.e., the role of philosophy in computer science)</li>
