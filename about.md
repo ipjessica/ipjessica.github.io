@@ -17,6 +17,7 @@ permalink: /about/
     <li>History</li>
     <li>Photography - film, editorials, black & white</li>
     <li>Computational Thinking</li>
+    <li>Astronomy - cosmology</li>
     <li>Algebraic Computation</li>
 </ul>
 
