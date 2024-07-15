@@ -6,8 +6,12 @@ permalink: /about/
 
 <h4>Interdisciplinary Technologist</h4>
 <img src="/assets/images/9.jpg" alt="headshot" width="200" height="40"/>
-<p>As a technologist who has cultivated interests across various disciplines that I find intellectually stimulating, the throughline has been seeking a human-centric element in the interactions we have with technology, whether that is "technology" in its classic definition, or technology that is more interwoven with our lives without conscious awareness: the technology of infrastructure, of textiles, of culture. A sideline to that throughline is that I believe there is always nuance and that care must be taken to interpret every discussion through the lens of nuance. 
-
+<p>As a technologist who has cultivated interests across various disciplines that I find intellectually stimulating, the throughline has been seeking a human-centric element in the interactions we have with technology, whether that is "technology" in its classic definition, or technology that is more interwoven with our lives without conscious awareness: the technology of infrastructure, of textiles, of culture. A sideline to that throughline is that I believe there is always nuance and that care must be taken to interpret every discussion through the lens of nuance. As Walt Whitman <a href="https://iwp.uiowa.edu/whitmanweb/en/writings/song-of-myself/section-51#:~:text=What%20are%20arguably%20Whitman's%20most,adored%20by%20little%20statesmen%20and">said</a>:</p>
+<ul>
+<p>Do I contradict myself?<br>
+Very well then I contradict myself,<br>
+(I am large, I contain multitudes.)</p>
+</ul>
 <p>I am passionate about solving problems using my innate curiosity and desire for growth by applying in-depth research and critical thinking to understand comprehensively the areas that interest me:</p>
 
 <ul>
