@@ -77,4 +77,4 @@ Lido. (2024). <i>Lido on Ethereum Scorecard.</i> <a href="https://lido.fi/scorec
 
 pSTAKE. (2022, October 19). <i>pSTAKE x Anchorage Digital Partner to Support Institutional Custody for PSTAKE.</i> <a href="https://blog.pstake.finance/2022/10/19/pstake-x-anchorage-digital-partner-to-support-institutional-custody-for-pstake/">https://blog.pstake.finance/2022/10/19/pstake-x-anchorage-digital-partner-to-support-institutional-custody-for-pstake/</a><br>
 
-Schuler, K., Cloots, A.S., & Schär, F. (2024). <i>On DeFi and On-Chain CeFi: How (Not) to Regulate Decentralized Finance.</i> Journal of Financial Regulation. <a href="https://doi.org/10.1093/jfr/fjad014">https://doi.org/10.1093/jfr/fjad014</a><br>
+Schuler, K., Cloots, A.S., & Schär, F. (2024). On DeFi and On-Chain CeFi: How (Not) to Regulate Decentralized Finance. Journal of Financial Regulation. <a href="https://doi.org/10.1093/jfr/fjad014">https://doi.org/10.1093/jfr/fjad014</a><br>
